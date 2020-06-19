@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "expo": "~37.0.3",
+    "logkitty": "^0.7.1",
     "lottie-react-native": "~2.6.1",
     "react": "~16.9.0",
     "react-devtools": "^3.6.3",
